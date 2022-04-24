@@ -2,7 +2,8 @@ import 'dart:typed_data';
 import 'package:hdwallet_lib/bip32.dart';
 import 'package:hdwallet_lib/bip39.dart';
 import 'package:hex/hex.dart';
-import 'package:web3dart/web3dart.dart';
+import 'package:web3lib/web3lib.dart';
+
 
 import '../models/networks.dart';
 import '../payments/index.dart';
