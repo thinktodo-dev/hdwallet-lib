@@ -1,6 +1,6 @@
 name: hdwallet_lib
 description: HDWallet help us connect bitcoin and ethereum wallet. We will update and support HDWallet connect to more and more coins.
-version: 0.0.2
+version: 0.0.3
 homepage: https://thinktodo.net
 repository: https://github.com/thinktodo-dev/hdwallet-lib
 
